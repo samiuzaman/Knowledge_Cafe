@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "cover": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "The Future of Web Development",
+    "author": "John Doe",
+    "author_image": "https://plus.unsplash.com/premium_photo-1689708721750-8a0e6dc14cee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-01-15",
+    "reading_time": 7,
+    "hashtags": ["#WebDevelopment", "#FutureTech", "#Innovation"]
+  },
+  {
+    "id": 102,
+    "cover": "https://images.unsplash.com/photo-1527689368864-3a821dbccc34?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Mastering JavaScript in 2024",
+    "author": "Jane Smith",
+    "author_image": "https://plus.unsplash.com/premium_photo-1688350839154-1a131bccd78a?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-03-22",
+    "reading_time": 5,
+    "hashtags": ["#JavaScript", "#Coding", "#Programming"]
+  },
+  {
+    "id": 103,
+    "cover": "https://images.unsplash.com/photo-1441109296207-fd911f7cd5e5?q=80&w=1494&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "AI Revolution: What You Need to Know",
+    "author": "Alex Johnson",
+    "author_image": "https://plus.unsplash.com/premium_photo-1664541336896-b3d5f7dec9a3?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-06-10",
+    "reading_time": 9,
+    "hashtags": ["#AI", "#MachineLearning", "#TechTrends"]
+  },
+  {
+    "id": 104,
+    "cover": "https://images.unsplash.com/photo-1511649475669-e288648b2339?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "10 Tips for Full Stack Developers",
+    "author": "Emily Davis",
+    "author_image": "https://plus.unsplash.com/premium_photo-1690407617686-d449aa2aad3c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-02-05",
+    "reading_time": 6,
+    "hashtags": ["#FullStack", "#WebDevelopment", "#TechTips"]
+  },
+  {
+    "id": 105,
+    "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Understanding Cloud Computing",
+    "author": "Michael Lee",
+    "author_image": "https://plus.unsplash.com/premium_photo-1678197937465-bdbc4ed95815?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "posted_date": "2024-04-18",
+    "reading_time": 8,
+    "hashtags": ["#CloudComputing", "#DevOps", "#TechInsights"]
+  }
+]
